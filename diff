@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Mittwoch Bowl Session</title>
+
+  <!-- Vorschau für Instagram/WhatsApp -->
+  <meta property="og:title" content="Mittwoch Bowl Session">
+  <meta property="og:description" content="Neuer Skatevlog online 🛹">
+  <meta property="og:image" content="https://foulnet-cmd.github.io/IMG_9920.jpeg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://foulnet-cmd.github.io/">
+
+  <!-- Automatische Weiterleitung zum Video -->
+  <meta http-equiv="refresh" content="0; url=https://youtu.be/spYyFgaXWNY">
+</head>
+<body>
+  Weiterleitung…
+</body>
+</html>
